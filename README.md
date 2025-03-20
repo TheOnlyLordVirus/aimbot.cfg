@@ -9,3 +9,7 @@ Load a dev build of call of duty and run the command: ```"exec aimbot.cfg"```, u
 Otherwise, depending on the game, you might be able to load the ```"exec aimbot.cfg"``` command, in to the command buffer using RPC.
 
 Otherwise, older call of duty's contain varrious exploits for executing dvars on the client though hacked saves, isos, and other means (See CFG Infections)
+
+https://www.youtube.com/watch?v=385gsW2cr_w
+
+https://www.youtube.com/watch?v=CrKeWmHA9aQ
